@@ -53,7 +53,7 @@ $db=new ChannelDB();
 			<th width="10%">创建时间</th>
 			<th width="10%">操作</th>
 		</tr>
-	</thead				
+	</thead>			
 	<tbody>	
 	</tbody>
 	</table>
